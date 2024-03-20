@@ -1,11 +1,8 @@
-https://www.canva.com/design/DAGADIutMHg/qN9kTEtaRIzX_kvQPS2dHA/edit?utm_content=DAGADIutMHg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
-<h3 align="center">Data Analyst Always learn new things</h3>
-https://www.freepik.com/free-vector/process-optimization-concept-illustration_133781479.htm#query=data%20analyst&position=1&from_view=keyword&track=ais&uuid=8d92664c-199a-463d-be70-73cf8e867ce6
+<h3 align="center">Data Analyst </h3>
+<h3 align="center">Always Learn New Things</h3>
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/process-optimization-concept-illustration_133781479.htm#query=data%20analyst&position=1&from_view=keyword&track=ais&uuid=8d92664c-199a-463d-be70-73cf8e867ce6">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul18171&label=Profile%20views&color=0e75b6&style=flat" alt="rahul18171" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul18171" alt="rahul18171" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis with Tableau**
 

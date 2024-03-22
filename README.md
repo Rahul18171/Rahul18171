@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
 <h3 align="center">Data Analyst </h3>
 <h3 align="center">Always Learn New Things</h3>
-<img align="right" alt="Coding" width="400" src=" https://user-images.githubusercontent...">
+<img align="right" alt="Coding" width="400" src="https://github.com/Rahul18171/Rahul18171/assets/130995317/3212af3d-1309-4290-9aa0-86393f764bb4">
 
 
 - 🌱 I’m currently learning **Data Analysis with Tableau**

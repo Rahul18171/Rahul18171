@@ -1,4 +1,3 @@
-https://github.com/Rahul18171/Rahul18171/assets/130995317/e2d03b5b-2697-48d4-b2bd-fa57b639caa3
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
 <h3 align="center">Data Analyst </h3>
 <h3 align="center">Always Learn New Things</h3>

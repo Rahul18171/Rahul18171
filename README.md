@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
 <h3 align="center">Data Analyst </h3>
 <h3 align="center">Always Learn New Things</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/process-optimization-concept-illustration_133781479.htm#query=data%20analyst&position=1&from_view=keyword&track=ais&uuid=8d92664c-199a-463d-be70-73cf8e867ce6">
+<img align="right" alt="Coding" width="400" src=" https://user-images.githubusercontent...">
 
 
 - 🌱 I’m currently learning **Data Analysis with Tableau**

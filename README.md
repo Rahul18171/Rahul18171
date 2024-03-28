@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Rahul18171/Rahul18171/assets/130995317/3212af3d-1309-4290-9aa0-86393f764bb4">
 
 
-- 🌱 I’m currently learning **Data Analysis with Tableau**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Tableau Dashboard and EDA Projects**
 

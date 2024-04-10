@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
 <h3 align="center">Data Analyst </h3>
-<h3 align="center">Always Learn New Things</h3>
+<h3 align="center">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Passionate+About+Data+Analyst;Always+Learn+New+Things" alt="Typing SVG" /></a>  
 <img align="right" alt="Coding" width="400" src="https://github.com/Rahul18171/Rahul18171/assets/130995317/3212af3d-1309-4290-9aa0-86393f764bb4">
 
 

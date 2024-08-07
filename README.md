@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Rahul18171/Rahul18171/assets/130995317/3212af3d-1309-4290-9aa0-86393f764bb4">
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML-Ops,Deep-Learning,NLP**
 
-- 👯 I’m looking to collaborate on **Tableau Dashboard and EDA Projects**
+- 👯 I’m looking to collaborate on **Power BI Projects**
 
-- 💬 Ask me about **Pyhton,SQL,Tableau**
+- 💬 Ask me about **Pyhton,SQL,Stats,Power BI**
 
 - 📫 How to reach me **rahulthakur2603@gmail.com**
 
